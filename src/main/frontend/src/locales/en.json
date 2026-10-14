@@ -1,0 +1,61 @@
+{
+  "app": { "titre": "Mali ⇄ Russia Transfer" },
+  "nav": {
+    "nouvelleDemande": "New request",
+    "mesDemandes": "My requests",
+    "mesMatches": "My matches",
+    "deconnexion": "Log out",
+    "connexion": "Log in",
+    "inscription": "Sign up"
+  },
+  "connexion": {
+    "titre": "Log in",
+    "nomUtilisateur": "Username",
+    "motDePasse": "Password",
+    "bouton": "Log in",
+    "erreur": "Invalid credentials."
+  },
+  "inscription": {
+    "titre": "Create an account",
+    "nomUtilisateur": "Username",
+    "email": "Email",
+    "motDePasse": "Password",
+    "pays": "Country",
+    "mali": "Mali",
+    "russie": "Russia",
+    "telephone": "Phone (mobile money)",
+    "bouton": "Sign up",
+    "erreur": "Sign up failed. Check the fields (username already taken?)."
+  },
+  "creerDemande": {
+    "titre": "New transfer request",
+    "description": "No money crosses the border: your request will be matched with an opposite-direction request, and each side pays locally.",
+    "sens": "Transfer direction",
+    "maliVersRussie": "Mali → Russia",
+    "russieVersMali": "Russia → Mali",
+    "montant": "Amount to send",
+    "deviseSource": "Currency sent",
+    "deviseCible": "Currency received by the recipient",
+    "bouton": "Create request",
+    "erreur": "Could not create the request. Check the amount entered.",
+    "succes": "Request created! Looking for a match…"
+  },
+  "listeDemandes": {
+    "titre": "My requests",
+    "vide": "You don't have any request yet. Create one!",
+    "creeLe": "Created on {{date}}"
+  },
+  "statuts": {
+    "enAttente": "Pending",
+    "matchee": "Matched",
+    "complete": "Completed",
+    "annulee": "Cancelled"
+  },
+  "suiviMatches": {
+    "titre": "My matches",
+    "vide": "No match yet. Check back a bit later.",
+    "termine": "Completed",
+    "enCours": "Awaiting confirmation",
+    "confirmer": "Confirm my local payment was made"
+  }
+}

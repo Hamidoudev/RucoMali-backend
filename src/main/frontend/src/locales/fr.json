@@ -1,0 +1,61 @@
+{
+  "app": { "titre": "Transfert Mali ⇄ Russie" },
+  "nav": {
+    "nouvelleDemande": "Nouvelle demande",
+    "mesDemandes": "Mes demandes",
+    "mesMatches": "Mes matches",
+    "deconnexion": "Déconnexion",
+    "connexion": "Connexion",
+    "inscription": "Inscription"
+  },
+  "connexion": {
+    "titre": "Connexion",
+    "nomUtilisateur": "Nom d'utilisateur",
+    "motDePasse": "Mot de passe",
+    "bouton": "Se connecter",
+    "erreur": "Identifiants invalides."
+  },
+  "inscription": {
+    "titre": "Créer un compte",
+    "nomUtilisateur": "Nom d'utilisateur",
+    "email": "Email",
+    "motDePasse": "Mot de passe",
+    "pays": "Pays",
+    "mali": "Mali",
+    "russie": "Russie",
+    "telephone": "Téléphone (mobile money)",
+    "bouton": "S'inscrire",
+    "erreur": "Inscription impossible. Vérifie les champs (nom d'utilisateur déjà pris ?)."
+  },
+  "creerDemande": {
+    "titre": "Nouvelle demande de transfert",
+    "description": "Aucun argent ne traverse la frontière : ta demande sera mise en relation avec une demande de sens opposé, et chacun paie localement.",
+    "sens": "Sens du transfert",
+    "maliVersRussie": "Mali → Russie",
+    "russieVersMali": "Russie → Mali",
+    "montant": "Montant à envoyer",
+    "deviseSource": "Devise envoyée",
+    "deviseCible": "Devise reçue par le destinataire",
+    "bouton": "Créer la demande",
+    "erreur": "Impossible de créer la demande. Vérifie le montant saisi.",
+    "succes": "Demande créée ! Recherche de match en cours…"
+  },
+  "listeDemandes": {
+    "titre": "Mes demandes",
+    "vide": "Tu n'as pas encore de demande. Crées-en une !",
+    "creeLe": "Créée le {{date}}"
+  },
+  "statuts": {
+    "enAttente": "En attente",
+    "matchee": "Matchée",
+    "complete": "Complétée",
+    "annulee": "Annulée"
+  },
+  "suiviMatches": {
+    "titre": "Mes matches",
+    "vide": "Pas encore de match. Reviens un peu plus tard.",
+    "termine": "Terminé",
+    "enCours": "En cours de confirmation",
+    "confirmer": "Confirmer mon paiement local effectué"
+  }
+}
